@@ -9,7 +9,7 @@ first computer exercise with truth tables
 
 #Testbench Waveform
 
-![alt text](C:\Users\C15Jacob.Echeverry\Desktop\ECE_281\testbench_waveform.png "Logo Title Text 1")
+![Wave Form](https://raw2.github.com/jrecheverry/ECE281_CE1/master/testbench_waveform.PNG)
 
 
 #Analysis
