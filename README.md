@@ -5,11 +5,11 @@ first computer exercise with truth tables
 
 #Truth Table
 
-![alt text](C:\Users\C15Jacob.Echeverry\Desktop\ECE_281\CE1_truthtable "Logo Title Text 1")
+![alt text](C:\Users\C15Jacob.Echeverry\Desktop\ECE_281\CE1_truthtable.jpeg "Logo Title Text 1")
 
 #Testbench Waveform
 
-![alt text](C:\Users\C15Jacob.Echeverry\Desktop\ECE_281\testbench_waveform "Logo Title Text 1")
+![alt text](C:\Users\C15Jacob.Echeverry\Desktop\ECE_281\testbench_waveform.png "Logo Title Text 1")
 
 
 #Analysis
