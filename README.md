@@ -5,7 +5,7 @@ first computer exercise with truth tables
 
 #Truth Table
 
-![alt text](C:\Users\C15Jacob.Echeverry\Desktop\ECE_281\CE1_truthtable.jpeg "Logo Title Text 1")
+![Truth Table] (https://raw2.github.com/jrecheverry/ECE281_CE1/master/CE1_truthtable.JPG)
 
 #Testbench Waveform
 
